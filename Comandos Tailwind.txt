@@ -1,0 +1,21 @@
+
+//Criar pasta
+mkdir "nome da pasta"
+
+//Criar arquivo html
+"nome do html".html
+
+//Criar pasta + arquivo css
+"nome pasta"/"nome do css".css
+
+//Iniciar o projeto
+npm init
+
+//Instalação do tailwindcss
+npm install -D tailwindcss
+npx tailwindcss init
+
+// Comando para criar um css do Tailwind no projeto / sempre executar esse comando para o tailwind  ser habilitado no projeto
+npx tailwindcss -i ./src/design.css -o ./design.css --watch
+
+parei 49 min
