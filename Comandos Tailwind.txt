@@ -18,4 +18,4 @@ npx tailwindcss init
 // Comando para criar um css do Tailwind no projeto / sempre executar esse comando para o tailwind  ser habilitado no projeto
 npx tailwindcss -i ./src/design.css -o ./design.css --watch
 
-parei 49 min
+parei 1:05:00 min
